@@ -1,4 +1,4 @@
-## Semantic Job Agent
+# Semantic Job Agent
 From Job Matching to Intelligent Career Assistance.
 
 ## Summary
