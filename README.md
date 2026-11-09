@@ -1,5 +1,4 @@
 # Semantic Job Agent
-From Job Matching to Intelligent Career Assistance.
 
 ## Summary
 Semantic Job Agent is an AI-powered assistant designed to improve the way people search for jobs.
